@@ -2,5 +2,7 @@ django
 djangorestframework
 psycopg2-binary
 Pillow
-configparser
-
+python-decouple
+dj-rest-auth
+django-cors-headers
+drf-yasg
